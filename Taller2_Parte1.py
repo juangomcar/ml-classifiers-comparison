@@ -395,3 +395,4 @@ print("SVM:", 0.7591)
 # El classification report muestra que la clase 0 (No Diabetes) tiene mayor precisión y recall (0.79–0.85), mientras que la clase 1 (Diabetes) baja en desempeño (0.61–0.66).
 # 
 # Esto significa que el modelo tiende a ser mejor identificando personas sanas que personas con diabetes debido al desbalance de las clases
+
